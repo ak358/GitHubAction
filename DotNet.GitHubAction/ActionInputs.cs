@@ -3,7 +3,7 @@
 // GitHubアクションの入力を処理するクラス
 public class ActionInputs
 {
-    // リポジトリ名とブランチ名を保持するプライベートフィールド
+    // リポジトリ名とブランチ名を保持するプライベートフィールド //変更
     string _repositoryName = null!;
     string _branchName = null!;
 
